@@ -56,8 +56,6 @@ Using the Executable (.exe)
 
 An executable version of the application is available for Windows users.
 
-Access the executable from the provided Google Drive link.
-
 Navigate to the 
 
 dist folder, and then the python_youtube_downloader folder.
